@@ -1,5 +1,7 @@
 # MCP API Key Setup Guide
 
+> **⚠️ Important**: If you're using Cursor and think you have a "Cursor API key", please read [Cursor API Clarification](./CURSOR_API_CLARIFICATION.md) first. What you call a "Cursor API key" is actually an **Anthropic API key** and should be configured as such.
+
 ## Quick Diagnosis
 
 If Task Master AI tools are failing with network errors like:
